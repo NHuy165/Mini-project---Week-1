@@ -10,4 +10,4 @@
     + Trần Hoàng Minh Vĩ
     + Nguyễn Duy Đạt
 - Chức năng chính: Cung cấp lý thuyết cho học sinh; tạo quiz, flashcards, đề thi ôn tập...; đề xuất lộ trình cho học sinh.,
-- Link Notion: điền sau
+- Link Notion: https://www.notion.so/Chia-vi-c-328b6452e88580049620c97ec4288008?source=copy_link
